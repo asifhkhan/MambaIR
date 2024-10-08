@@ -168,7 +168,6 @@ We achieve state-of-the-art performance on various image restoration tasks. Deta
 
 </details>
 
-
 ## <a name="installation"></a> :wrench: Installation
 
 This codebase was tested with the following environment configurations. It may work with other versions.
